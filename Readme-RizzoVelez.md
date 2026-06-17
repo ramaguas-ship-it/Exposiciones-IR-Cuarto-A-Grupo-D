@@ -213,4 +213,148 @@
 **Práctica:**
 
 * Creación de roles.
-* Creación de usuarios.
+* Crear Usuarios.
+  
+## EQUIPO E: Jama Software
+
+### Expositor Marcillo
+
+**Teoría:**
+
+* Información general: Resolver errores por requisitos mal definidos
+* Origen de Jama
+* ¿Qué es Jama?: Permite centralizar información y que todos trabajen en una sola base de información
+* Live Traceability: Incorpora trazabilidad a tiempo real
+* Diagrama de flujo de procesos
+
+**Práctica:**
+
+* Relación de requisitos
+* Matriz de trazabilidad
+
+### Expositor Herrera
+
+**Teoría:**
+
+* Módulos principales: Gestión de requisitos, Live Traceability, Review Center, Gestión de Riesgos y Jama Connect Advisor.
+* Estándares soportados por Jama.
+* Jama Connect Advisor permite evaluar la calidad de los requisitos mediante inteligencia artificial.
+
+**Práctica:**
+
+* Especificación de requisitos.
+* Activación de Jama Connect.
+* Revisión del porcentaje de calidad de los requisitos.
+
+### Expositor Robinson
+
+**Teoría:**
+
+* Review Center para facilitar la comunicación y sugerencia de cambios.
+* Baselines (líneas base).
+* Congelamiento de requisitos.
+* Relación con la Ingeniería de Requerimientos.
+* Ventajas y desventajas de la herramienta.
+* Conclusiones.
+
+**Práctica:**
+
+* No realizó demostración práctica.
+
+---
+
+## EQUIPO F: Reqi
+
+### Expositor Trujillo
+
+**Teoría:**
+
+* La Ingeniería de Requerimientos es un pilar fundamental para desarrollar software de calidad.
+* Ventajas: accesibilidad, colaboración en tiempo real y modelo freemium.
+
+**Práctica:**
+
+* Creación del mapa del proyecto.
+
+### Expositor Quintero
+
+**Teoría:**
+
+* Limitaciones: ausencia de automatización mediante inteligencia artificial.
+* Caso de estudio: Camaronera.
+
+**Práctica:**
+
+* Gestión del apartado de requerimientos.
+* Creación de requerimientos.
+* Agregar criterios de aceptación.
+
+### Expositor Barrionuevo
+
+**Teoría:**
+
+* ¿Qué es Reqi?: Plataforma integral basada en la nube.
+* Funcionalidades: gestión de requisitos, visualización del sistema, colaboración en tiempo real y marco metodológico.
+
+**Práctica:**
+
+* Creación de módulos a utilizar.
+
+---
+
+## EQUIPO G: Modern Requirements
+
+### Expositor Macías
+
+**Teoría:**
+
+* Aplicabilidad de la herramienta en proyectos.
+* Baselines para conservar versiones antiguas y realizar auditorías.
+
+**Práctica:**
+
+* Creación de sprints.
+
+### Expositor Alvia
+
+**Teoría:**
+
+* ¿Qué es Modern Requirements?: Herramienta automatizada para Ingeniería de Requerimientos.
+* Origen de Modern Requirements.
+* Enfoque de la herramienta.
+* Funcionalidades principales: integración con Azure DevOps, Use Case Suite y especificación formal.
+
+**Práctica:**
+
+* Áreas de trabajo.
+* Sección de trazabilidad.
+
+### Expositor Arboleda
+
+**Teoría:**
+
+* Trazabilidad para el control del ciclo de vida de los requisitos.
+* Control de versiones para auditorías.
+* Revisión formal.
+* Funcionalidades: Modern AI, Simulation Suite, documentación automática estandarizada y cumplimiento de normativas.
+
+**Práctica:**
+
+* Creación de un plan de entrega.
+
+### Expositor Calle
+
+**Teoría:**
+
+* Principales ventajas de la herramienta.
+* Gestión de requisitos sin herramientas externas.
+* Limitaciones: dependencia de Azure DevOps y costo elevado.
+
+**Práctica:**
+
+* Uso de elementos de trabajo.
+* Creación de requisitos mediante historias de usuario.
+* Creación de tareas.
+* Agregar vínculos.
+* Asignación de tareas.
+* Cambio de estados de actividades.
